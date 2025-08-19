@@ -7,7 +7,7 @@ def fetch_and_save_data():
     """Fetches news and social media data and saves it to the raw folder."""
     
     # 1. Fetch News Articles from Newsdata.io
-    API_KEY = "pub_df4ac1d0a1274cd3b70e3ffa6d6c7676"  # Use your actual API key here
+    API_KEY = "NEWSDATA_API_KEY"  # Use your actual API key here
     BASE_URL = "https://newsdata.io/api/1/news"
     params = {
         'apikey': API_KEY,
