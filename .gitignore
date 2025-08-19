@@ -1,0 +1,8 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore the specific notebook file
+src/2_exploratory_data_analysis.ipynb
+
+# Also ignore the virtual environment
+venv/
