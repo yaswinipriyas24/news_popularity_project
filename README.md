@@ -40,7 +40,7 @@ You need the following software installed on your machine:
 
 1.  Clone the repository from GitHub.
     ```bash
-    git clone [https://github.com/yaswinipriyas24/news_popularity_project.git]
+    git clone https://github.com/yaswinipriyas24/news_popularity_project.git
     cd news-popularity-project
     ```
 2.  Create and activate a virtual environment.
